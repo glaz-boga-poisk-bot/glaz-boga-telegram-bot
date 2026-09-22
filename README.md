@@ -1,6 +1,6 @@
 # Глаз Бога бот в Telegram: как пользоваться
 
-![Глаз Бога бот в Telegram: как пользоваться](assets/repository-cover.png)
+![Глаз Бога бот в Telegram: как пользоваться](repository-cover.png)
 
 > Обновлено: **22 сентября 2026 года** · Автор: **редакция ProbivTG** · Объясняем простыми словами
 
@@ -54,4 +54,5 @@
 <p align="center"><a href="https://probivtg.pro/?utm_source=github&utm_medium=organic&utm_campaign=glaz-boga-poisk-bot&utm_content=glaz-boga-telegram-bot&utm_term=bottom&ref=github_glaz-boga-poisk-bot_glaz-boga-telegram-bot"><strong>Перейти в ProbivTG</strong></a></p>
 
 Проверяйте свои данные или работайте с согласия человека. Не публикуйте найденные контакты без причины.
+
 
